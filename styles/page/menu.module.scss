@@ -1,0 +1,29 @@
+.header {
+    @include mixins.flex__center__c;
+    gap: 1rem;
+}
+
+.menu {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    &__title {
+        text-align: center;
+    }
+}
+.menu__item {
+    display: flex;
+    flex-direction: column;
+    &__header {
+        display: flex;
+        justify-content: space-between;
+        & p {
+            font-weight: 600;
+            font-size: 18px;
+        }
+    }
+    &__description {
+        font-style: italic;
+    }
+}

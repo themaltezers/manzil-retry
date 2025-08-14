@@ -1,0 +1,32 @@
+.banner {
+    height: 90dvh;
+    background: vars.$primary;
+    color: #fff;
+    @include mixins.flex__center__c;
+    gap: 1rem;
+    button {
+        background: #000;
+        color: white;
+    }
+}
+
+.about {
+    &__image {
+        position: relative;
+        width: 100%;
+        height: 400px; /* fixe une hauteur selon ton design */
+        overflow: hidden;
+        border-radius: 8px;
+    }
+}
+
+.ambiance,
+.infos {
+    background: vars.$primary;
+    color: #fff;
+}
+
+.cta {
+    background: vars.$primary;
+    color: white;
+}

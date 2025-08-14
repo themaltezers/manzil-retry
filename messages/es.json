@@ -1,0 +1,304 @@
+{
+  "HomePage": {
+    "banner": {
+      "title": "Le Manzil Brunch",
+      "subtitle": "La autenticidad marroquí, el confort marsellés",
+      "cta": "Descubrir el menú"
+    },
+    "about": {
+      "kicker": "EN EL CORAZÓN DE MANZIL BRUNCH",
+      "title": "Tu escapada gourmet con los colores de Marruecos",
+      "paragraphs": [
+        "Le Manzil Brunch es un acogedor refugio en el corazón de Marsella, pensado para despertar todos tus sentidos. Aquí, la atmósfera marroquí se mezcla con la energía mediterránea: cojines mullidos, mosaicos coloridos, vajilla artesanal y delicados aromas se combinan en un entorno que te transporta.",
+        "Nacido del deseo de compartir la generosidad de las mesas marroquíes, cada detalle de nuestra decoración cuenta una historia. Las luces suaves invitan a la relajación, la música te transporta, y cada rincón ha sido diseñado para que te sientas como en casa… pero de viaje.",
+        "Ya sea para un brunch con amigos, un momento en familia o una pausa gourmet en solitario, siéntate, saborea el momento y deja que el encanto haga su magia."
+      ],
+      "imageAlt": "interior de Le Manzil Brunch"
+    },
+    "ambiance": {
+      "kicker": "EL ALMA DE MANZIL BRUNCH",
+      "title": "Tu escapada gourmet con los colores de Marruecos",
+      "paragraphs": [
+        "Le Manzil Brunch es un acogedor refugio en el corazón de Marsella, pensado para despertar todos tus sentidos. Aquí, la atmósfera marroquí se mezcla con la energía mediterránea: cojines mullidos, mosaicos coloridos, vajilla artesanal y delicados aromas se combinan en un entorno que te transporta.",
+        "Le Manzil Brunch es un acogedor refugio en el corazón de Marsella, pensado para despertar todos tus sentidos. Aquí, la atmósfera marroquí se mezcla con la energía mediterránea: cojines mullidos, mosaicos coloridos, vajilla artesanal y delicados aromas se combinan en un entorno que te transporta.",
+        "Ya sea para un brunch con amigos, un momento en familia o una pausa gourmet en solitario, siéntate, saborea el momento y deja que el encanto haga su magia."
+      ],
+      "carouselPlaceholder": "imagen del carrusel"
+    },
+    "reviews": {
+      "kicker": "LES HA ENCANTADO",
+      "title": "Tus palabras, nuestra mayor recompensa",
+      "intro": "Cada visita a Le Manzil Brunch es única… y tus comentarios nos llegan al corazón. Aquí tienes algunas palabras que nos motivan a ofrecerte lo mejor, día tras día.",
+      "items": [{"rating": 5,"reviewContent": "¡Gran descubrimiento en Marsella! Un brunch muy abundante con una excelente relación calidad-precio, productos frescos y zumos que sientan de maravilla. El desayuno está realmente buenísimo y el personal es muy amable. El único pequeño ‘pero’ es la espera, pero merece totalmente la pena. Si quieres evadirte, ve sin dudarlo.","reviewerName": "R B"},{"rating": 5,"reviewContent": "Almorcé en Manzil en Marsella y pasé un momento absolutamente perfecto. Acogida cálida, servicio atento y, sobre todo… ¡la comida está deliciosa! Se nota que todo es casero, con productos frescos y mucha generosidad. ❤️","reviewerName": "Sofia"},{"rating": 4,"reviewContent": "Brunch delicioso; los sabores están a la altura. Los platos se sirven en buenas cantidades. Recomendamos: el ambiente es cálido.","reviewerName": "Romane"},{"rating": 5,"reviewContent": "Por dónde empezar… Brunch de calidad y abundante, servicio de diez, productos frescos. ¡Camarera de lujo, atenta y superamable! Gracias, volveremos sin dudarlo.","reviewerName": "Ambrine"},{"rating": 5,"reviewContent": "✨ ¡Un descubrimiento maravilloso! ✨ Probé por primera vez un brunch marroquí en Marsella y fue un verdadero deleite. Cada plato estaba sabroso, bien presentado y los sabores me hicieron viajar. El servicio fue rápido, atento y sonriente, lo que hizo la experiencia aún mejor. Una dirección que recomiendo con los ojos cerrados para un momento goloso y acogedor. ¡Volveré sin dudarlo!","reviewerName": "Mégane"},{"rating": 4,"reviewContent": "De paso por Marsella. Muy buen descubrimiento. Los platos son excelentes, ni demasiado grasos ni demasiado dulces. Mención especial al msemen salado con pollo y cheddar y al servicio amable.","reviewerName": "Alvine"},{"rating": 5,"reviewContent": "Ambiente acogedor, cocina excelente y atención perfecta. ¡Una dirección que no te puedes perder si vienes a Marsella!","reviewerName": "Mailis"},{"rating": 4,"reviewContent": "Aparcamiento en el Viejo Puerto, salida Lacydon y ¡ya estábamos delante! Pequeño brunch en familia, muy bueno y muy agradable. Ese día hubo poca espera, así que quedamos encantados.","reviewerName": "Cédric"},{"rating": 5,"reviewContent": "¡Un brunch marroquí sencillamente excelente! Sabores auténticos, productos frescos y una amplia variedad de especialidades servidas generosamente. El ambiente es cálido y la acogida perfecta. Un verdadero momento de placer, ¡lo recomiendo sin dudarlo!","reviewerName": "Meriem"}]
+    },
+    "infos": {
+      "kicker": "INFORMACIÓN PRÁCTICA",
+      "title": "Encuéntranos fácilmente",
+      "intro": "En el corazón de Marsella, Le Manzil Brunch te recibe en un ambiente cálido, a pocos pasos de los lugares imprescindibles del centro. Ya vengas para un brunch en familia, con amigos o en solitario, hemos pensado en todo para que tu visita sea fácil y agradable."
+    }
+  },
+  "Menu": {
+    "header": {
+      "title": "MENÚ BRUNCH"
+    },
+    "sections": {
+      "setMenus": {
+        "title": "FÓRMULAS",
+        "menus": [
+          {
+            "name": "PRIMO",
+            "description": "1 msemen, 2 baghrirs, una bebida caliente y una fría",
+            "price": "10,90"
+          },
+          {
+            "name": "MANZIL",
+            "description": "1 msemen, 1 baghrir, 1 harcha, dos huevos fritos o revueltos, una loncha de pechuga de pollo, un queso, una bebida caliente y una fría. miel, amlou, aceitunas y aceite de oliva",
+            "price": "16,90",
+            "favorite": true
+          },
+          {
+            "name": "ORIENTE",
+            "description": "1 msemen, 1 baghrir, 1 harcha, 1 porción de pastel casero, 1 tiramisú de amlou o pistacho, una bebida caliente y una fría",
+            "price": "21,90"
+          },
+          {
+            "name": "HEALTHY",
+            "description": "Un plato con dos huevos fritos o revueltos, medio aguacate, ensalada, una loncha de pechuga de pollo, un queso, una bebida caliente y una fría",
+            "price": "14,90"
+          },
+          {
+            "name": "DUO",
+            "description": "2 sopas, 2 msemens, 2 baghrirs, 2 harchas, 2 platos de huevos, 2 bebidas calientes y frías",
+            "price": "39,90",
+            "favorite": true
+          }
+        ]
+      },
+      "saltyDishes": {
+        "title": "NUESTROS SALADOS",
+        "menus": [
+          {
+            "name": "AVOCADO TOAST",
+            "description": "guacamole de aguacate, queso fresco, huevo escalfado, pimentón, lima",
+            "price": "13,90"
+          },
+          {
+            "name": "MSEMEN RELLENO",
+            "description": "msemens frescos rellenos de pollo marinado con especias y una capa fundente de cheddar",
+            "price": "13,90"
+          },
+          {
+            "name": "MANZIL ADDICT",
+            "description": "sobre una base de msemen, 1 aguacate en rodajas, ternera deshilachada, 2 huevos escalfados con salsa holandesa",
+            "price": "14,90",
+            "favorite": true
+          },
+          {
+            "name": "SOPA & BRICK",
+            "description": "sopa del día, brick cuadrada con patata, pollo y cheddar",
+            "price": "12,90"
+          },
+          {
+            "name": "EL CLUB",
+            "description": "pan rústico tostado, capa de pesto, salteado de tomate cherry con ajo, stracciatella, pastrami, vinagre balsámico de higos",
+            "price": "14,90",
+            "favorite": true
+          }
+        ]
+      },
+      "sweetDishes": {
+        "title": "NUESTROS DULCES",
+        "menus": [
+          {
+            "name": "TRÍO DE PANCAKES",
+            "description": "Trío de pancakes con Nutella o Amlou y frutos rojos frescos",
+            "price": "12,90"
+          },
+          {
+            "name": "TIRAMISÚ CASERO",
+            "description": "Tiramisú de pistacho o Amlou",
+            "price": "8,00",
+            "favorite": true
+          },
+          {
+            "name": "SFENDJ",
+            "description": "2 buñuelos cubiertos de azúcar",
+            "price": "7,00"
+          },
+          {
+            "name": "MSEMEN GOURMET",
+            "description": "Msemen con Nutella, frutas de temporada, nata montada y avellanas caramelizadas",
+            "price": "5,90",
+            "favorite": true
+          },
+          {
+            "name": "BAGHRIR GOURMET",
+            "description": "3 baghrirs con miel y mantequilla derretida, avellanas caramelizadas",
+            "price": "5,90"
+          },
+          {
+            "name": "EL BOWL",
+            "description": "Yogur griego, frutas frescas de temporada, miel, avena y almendras",
+            "price": "7,90"
+          }
+        ]
+      },
+      "asAsked": {
+        "title": "A LA CARTA",
+        "menus": [
+          {
+            "name": "SURTIDO ORIENTAL",
+            "lines": ["Msemen", "Baghrir", "Harcha"],
+            "price": "2,50"
+          },
+          {
+            "name": "SUPLEMENTOS",
+            "lines": ["Msemen con queso", "Harcha con queso", "Pastel casero"],
+            "price": "3,50"
+          },
+          {
+            "name": "SUPLEMENTO 2",
+            "lines": ["Amlou"],
+            "price": "2,00"
+          },
+          {
+            "name": "SUPLEMENTO 3",
+            "lines": ["Nutella", "Mermelada", "Queso", "Miel"],
+            "price": "1,00"
+          }
+        ]
+      },
+      "hotDrinks": {
+        "title": "BEBIDAS CALIENTES",
+        "menus": [
+          { "name": "ESPRESSO", "price": "2,50" },
+          { "name": "TÉ DE MENTA", "price": "2,00" },
+          { "name": "LATTE", "price": "4,50" },
+          { "name": "CAPUCHINO", "price": "4,50" },
+          { "name": "CHOCOLATE CALIENTE", "price": "4,50" },
+          { "name": "DOBLE ESPRESSO", "price": "4,00" },
+          { "name": "AMERICANO", "price": "3,00" }
+        ]
+      },
+      "coldDrinks": {
+        "title": "BEBIDAS FRÍAS",
+        "menus": [
+          {
+            "name": "MANZIL",
+            "description": "Zumo de aguacate, almendras, dátiles y leche",
+            "price": "6,00",
+            "favorite": true
+          },
+          {
+            "name": "DÚO FRUTAL",
+            "description": "Batido fresco de fresa y plátano",
+            "price": "6,00"
+          },
+          {
+            "name": "DETOX",
+            "description": "Booster con lima, pepino, manzana verde, apio, menta y jengibre",
+            "price": "6,00"
+          },
+          {
+            "name": "LIMONADA FRESCA",
+            "price": "6,90"
+          },
+          {
+            "name": "TROPICAL",
+            "description": "Batido de fresa, mango, piña y zumo de naranja natural",
+            "price": "6,90"
+          },
+          {
+            "name": "FUSIÓN MANGO PIÑA",
+            "price": "6,90",
+            "favorite": true
+          },
+          {
+            "name": "ZUMO DE NARANJA NATURAL",
+            "price": "4,50"
+          }
+        ]
+      },
+      "sodas": {
+        "title": "REFRESCOS",
+        "menus": [
+          { "name": "HAMOUD", "price": "2,50" },
+          { "name": "SELECTO", "price": "2,50" },
+          { "name": "AGUA CRISTALINA", "price": "2,00" }
+        ]
+      },
+      "iceAndLatte": {
+        "title": "CAFÉ & TÉ FRÍOS",
+        "menus": [
+          { "name": "LATTE ESPAÑOL", "price": "4,90" },
+          {
+            "name": "LATTE FRÍO",
+            "description": "caramelo o pistacho +2€",
+            "price": "4,90"
+          },
+          {
+            "name": "TÉ FRÍO DE MELOCOTÓN Y MENTA",
+            "price": "5,90",
+            "favorite": true
+          },
+          { "name": "TÉ FRÍO DE ROSA", "price": "5,90" }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "brand": {
+      "title": "Le Manzil Brunch",
+      "tagline": "La autenticidad marroquí en el corazón de Marsella. Brunch generosos, ambiente acogedor, té de menta… ¡bienvenidos!"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "map": {
+      "aria": "Mapa",
+      "title": "Le Manzil Brunch en el mapa"
+    },
+    "info": {
+      "title": "Información práctica",
+      "address": "48 rue du Lacydon - 13002 Marsella (Vieux-Port)",
+      "hoursAria": "Horario",
+      "hours": [
+        { "day": "Lunes", "hours": "10:00 – 16:00" },
+        { "day": "Martes", "hours": "10:00 – 16:00" },
+        { "day": "Miércoles", "hours": "10:00 – 16:00" },
+        { "day": "Jueves", "hours": "10:00 – 16:00" },
+        { "day": "Viernes", "hours": "Cerrado" },
+        { "day": "Sábado", "hours": "10:00 – 17:00" },
+        { "day": "Domingo", "hours": "10:00 – 17:00" }
+      ],
+      "contactTitle": "Contacto",
+      "phone": "+33 6 14 29 55 00",
+      "email": "contact@manzilbrunch.fr"
+    },
+    "nav": {
+      "titlePrimary": "Navegación",
+      "primary": [
+        { "label": "Inicio", "href": "/" },
+        { "label": "Menú", "href": "/menu" },
+        { "label": "Galería", "href": "/galerie" },
+        { "label": "Reservar", "href": "/#reservation" }
+      ],
+      "titleSecondary": "Para descubrir",
+      "secondary": [
+        { "label": "Sobre nosotros", "href": "/a-propos" },
+        { "label": "Contacto", "href": "/contact" },
+        { "label": "FAQ", "href": "/faq" }
+      ]
+    },
+    "bottom": {
+      "copyright": "© {year} Le Manzil Brunch — Todos los derechos reservados.",
+      "legal": [
+        { "label": "Aviso legal", "href": "/mentions-legales" },
+        { "label": "Privacidad", "href": "/confidentialite" },
+        { "label": "Cookies", "href": "/cookies" }
+      ],
+      "toTopAria": "Volver arriba"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+.embla {
+    position: relative;
+    width: 100%;
+}
+.viewport {
+    overflow: hidden;
+}
+.container {
+    display: flex;
+    gap: var(--gap, 16px);
+}
+.slide {
+    flex: 0 0 var(--slide-size, 85%);
+    min-width: 0;
+}
+
+@media (min-width: 900px) {
+    /* sur desktop: 3 ou 4 colonnes "comme une grille" */
+    .slide {
+        flex-basis: calc((100% - var(--gap) * 3) / 4);
+    }
+}
+
+/* Arrows */
+.arrows {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8px;
+}
+.arrow {
+    border: none;
+    background: #111;
+    color: #fff;
+    // width: 36px;
+    // height: 36px;
+    border-radius: 999px;
+    cursor: pointer;
+}
+.arrow:disabled {
+    opacity: 0.4;
+    cursor: default;
+}
+
+/* Dots */
+.dots {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background: #cfcfcf;
+    border: none;
+    cursor: pointer;
+}
+.dotActive {
+    background: #111;
+}

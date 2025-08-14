@@ -1,0 +1,91 @@
+@use "reset.scss";
+@use "fonts.scss";
+@import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+
+body {
+    background: vars.$bg;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Libertinus Serif", serif;
+    font-weight: 700;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+h3,
+h4 {
+    font-weight: 600;
+}
+h1 {
+    font-size: 2.25rem;
+
+    line-height: 110%;
+}
+h2 {
+    font-size: 1.75rem;
+    line-height: 120%;
+}
+p,
+li,
+a {
+    font-family: "Glacial Indifference", sans-serif;
+    font-size: 16px;
+}
+
+p {
+    line-height: 160%;
+}
+small {
+    font-size: 14px;
+}
+
+button,
+.cta {
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    @include mixins.border-radius(20px);
+}
+
+section {
+    padding: 2rem 1rem;
+}
+
+.section__header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    &__kicker {
+        color: vars.$primary;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    h1 {
+        font-size: 3rem;
+    }
+    h2 {
+        font-size: 2.25rem;
+    }
+    h3 {
+        font-size: 1.75rem;
+    }
+    h4 {
+        font-size: 1.5rem;
+    }
+}
+
+.image {
+    background: #000;
+    width: 100%;
+    height: 300px;
+    @include mixins.border-radius(0.5rem);
+    margin-bottom: 1rem;
+}

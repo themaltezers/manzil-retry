@@ -1,0 +1,135 @@
+.footer {
+    background: #0e0e0f; /* fond sombre chic */
+    color: #f3f3f3;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.socials {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 2rem;
+    & a {
+        @include mixins.flex__center;
+        width: 36px;
+        height: 36px;
+        border-radius: 999px;
+        background: #1b1b1c;
+        color: #fff;
+        text-decoration: none;
+        font-size: 1rem;
+        &:hover {
+            background: #2a2a2b;
+        }
+    }
+}
+
+.map {
+    &__container {
+        width: 100%;
+    }
+    width: 100%;
+    height: 220px;
+    border: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 24px;
+    &__container {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    & a:hover {
+        text-decoration: underline;
+    }
+
+    &__list {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
+
+.contact {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px;
+    display: grid;
+    gap: 6px;
+}
+.contact a {
+    color: #e9e9ea;
+    text-decoration: none;
+}
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.hours {
+    padding: 0;
+    display: grid;
+    gap: 6px;
+    & li {
+        display: flex;
+        justify-content: space-between;
+
+        border-bottom: 1px dashed rgba(255, 255, 255, 0.08);
+        &:last-child {
+            border-bottom: 0;
+            padding-bottom: 0;
+        }
+    }
+}
+
+.bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 28px;
+    padding-top: 16px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr;
+    align-items: center;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.legal {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    & a {
+        color: #e9e9ea;
+        font-size: 0.9375rem;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.toTop {
+    justify-self: end;
+    @include mixins.flex__center;
+    background: #1b1b1c;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    border-radius: 999px;
+    border: 0;
+    cursor: pointer;
+    &:hover {
+        background: #2a2a2b;
+    }
+}

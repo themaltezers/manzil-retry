@@ -1,0 +1,134 @@
+.header {
+    overflow-x: clip;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    backdrop-filter: saturate(180%) blur(10px);
+    background: rgba(255, 255, 255, 0.75);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    &__inner {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 10px 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+/* Logo */
+.logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Actions (lang + burger) */
+.actions {
+    display: flex;
+    align-items: center;
+    height: 44px;
+}
+
+.langSelect,
+.burger {
+    font-size: 1rem;
+    max-height: 100%; /* hauteur identique */
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+}
+.langSelect {
+    appearance: none;
+    border-radius: 999px 0 0 999px;
+    font-weight: 600;
+    &:focus {
+        outline: 2px solid #9b6bff33;
+    }
+}
+
+.burger {
+    border-radius: 0 999px 999px 0;
+}
+
+/* Overlay + Drawer */
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0);
+    pointer-events: none;
+    transition: background 0.25s ease;
+    &__show {
+        background: rgba(0, 0, 0, 0.4);
+        pointer-events: auto;
+    }
+}
+
+.drawer {
+    background: vars.$primary;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: min(90vw, 360px);
+    height: 100dvh;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    box-shadow: -8px 0 30px rgba(0, 0, 0, 0.08);
+    &__open {
+        transform: translateX(0);
+    }
+    &__head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 16px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    }
+    &__footer {
+        text-align: right;
+        margin-top: auto;
+        padding: 16px;
+        border-top: 1px solid rgba(0, 0, 0, 0.06);
+        display: grid;
+        gap: 6px;
+        & a {
+            color: #333;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.close {
+    border: 0;
+    background: #f3f3f3;
+    padding: 1rem;
+    @include mixins.flex__center;
+    border-radius: 999px;
+    cursor: pointer;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+
+    height: 100%;
+    & a {
+        text-align: right;
+        padding: 10px 12px;
+        font-weight: 500;
+        font-size: 2rem;
+        &:hover {
+            background: #f1f1f1;
+        }
+    }
+}

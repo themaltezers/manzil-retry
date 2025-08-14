@@ -1,0 +1,303 @@
+{
+   "HomePage": {
+    "banner": {
+      "title": "Le Manzil Brunch",
+      "subtitle": "L’authenticité marocaine, le confort marseillais",
+      "cta": "Découvrir le menu"
+    },
+    "about": {
+      "kicker": "AU CŒUR DU MANZIL BRUNCH",
+      "title": "Votre Escapade Gourmande aux Couleurs du Maroc",
+      "paragraphs": [
+        "Le Manzil Brunch est un cocon chaleureux au cœur de Marseille, pensé pour éveiller tous vos sens. Ici, l’atmosphère marocaine se mêle à l’énergie méditerranéenne : coussins moelleux, mosaïques colorées, vaisselle artisanale et parfums délicats se répondent dans un cadre dépaysant.",
+        "Né de l’envie de partager la générosité des tables marocaines, chaque détail de notre décor raconte une histoire. Les lumières douces invitent à la détente, la musique vous transporte, et chaque espace a été pensé pour que vous vous sentiez comme à la maison… mais en voyage.",
+        "Que ce soit pour un brunch entre amis, un moment en famille ou une pause gourmande en solo, installez-vous, savourez l’instant et laissez le charme opérer."
+      ],
+      "imageAlt": "intérieur du Manzil Brunch"
+    },
+    "ambiance": {
+      "kicker": "L’ÂME DU MANZIL BRUNCH",
+      "title": "Votre Escapade Gourmande aux Couleurs du Maroc",
+      "paragraphs": [
+        "Le Manzil Brunch est un cocon chaleureux au cœur de Marseille, pensé pour éveiller tous vos sens. Ici, l’atmosphère marocaine se mêle à l’énergie méditerranéenne : coussins moelleux, mosaïques colorées, vaisselle artisanale et parfums délicats se répondent dans un cadre dépaysant.",
+        "Le Manzil Brunch est un cocon chaleureux au cœur de Marseille, pensé pour éveiller tous vos sens. Ici, l’atmosphère marocaine se mêle à l’énergie méditerranéenne : coussins moelleux, mosaïques colorées, vaisselle artisanale et parfums délicats se répondent dans un cadre dépaysant.",
+        "Que ce soit pour un brunch entre amis, un moment en famille ou une pause gourmande en solo, installez-vous, savourez l’instant et laissez le charme opérer."
+      ],
+      "carouselPlaceholder": "carousel image"
+    },
+    "reviews": {
+      "kicker": "ILS ONT AIMÉ",
+      "title": "Vos mots, notre plus belle récompense",
+      "intro": "Chaque visite au Manzil Brunch est unique… et vos retours nous vont droit au cœur. Voici quelques mots qui nous motivent à vous offrir le meilleur, jour après jour."
+    },
+    "infos": {
+      "kicker": "INFOS PRATIQUES",
+      "title": "Retrouvez-nous facilement",
+      "intro": "Au cœur de Marseille, Le Manzil Brunch vous accueille dans un cadre chaleureux, à deux pas des spots incontournables du centre. Que vous veniez pour un brunch en famille, entre amis ou en solo, on a tout prévu pour que votre visite soit simple et agréable."
+    }
+  },
+  "Menu": {
+    "header": {
+      "title": "MENU BRUNCH"
+    },
+    "sections": {
+      "setMenus": {
+        "title": "FORMULES",
+        "menus": [
+          {
+            "name": "PRIMO",
+            "description": "1 msemen, 2 baghrirs, une boisson chaude et une froide",
+            "price": "10,90"
+          },
+          {
+            "name": "MANZIL",
+            "description": "1 msemen, 1 baghrir, 1 harcha, deux oeufs au plat ou brouillés, tranche de blanc de poulet, un fromage, une boisson chaude et froide. miel, amlou, olives et huile d'olive",
+            "price": "16,90",
+            "favorite": true
+          },
+          {
+            "name": "ORIENT",
+            "description": "1 msemen, 1 baghrir, 1 harcha, 1 part de cake maison, 1 tiramisu amlou ou pistache, une boisson chaude et froide",
+            "price": "21,90"
+          },
+          {
+            "name": "HEALTHY",
+            "description": "Une assiette composée de deux oeufs au plat ou brouillés, un demi avocat, une salade, une tranche de blanc de poulet, un fromage, une boisson chaude et froide",
+            "price": "14,90"
+          },
+          {
+            "name": "DUO",
+            "description": "2 soupes, 2 msemens, 2 baghrirs, 2 harchas, 2 assiettes d'oeufs, 2 boissons chaudes et froides",
+            "price": "39,90",
+            "favorite": true
+          }
+        ]
+      },
+      "saltyDishes": {
+        "title": "NOS SALÉS",
+        "menus": [
+          {
+            "name": "AVOCADO TOAST",
+            "description": "guacamole d'avocat, fromage frais, oeuf poché, paprika, citron vert",
+            "price": "13,90"
+          },
+          {
+            "name": "MSEMEN GARNI",
+            "description": "msemens frais, garni de poulet mariné aux épices savoureuses et d'une couche fondante de cheddar",
+            "price": "13,90"
+          },
+          {
+            "name": "MANZIL ADDICT",
+            "description": "sur une base de msemen, 1 avocat tranché, boeuf effiloché, 2 oeufs pochés accompagnés d'une sauce hollandaise",
+            "price": "14,90",
+            "favorite": true
+          },
+          {
+            "name": "SOUPE & BRICK",
+            "description": "soupe du jour, brick carré à la pomme de terre, poulet et cheddar",
+            "price": "12,90"
+          },
+          {
+            "name": "LE CLUB",
+            "description": "pain de campagne toasté, couche de pesto, poêlée de tomate cerise à l'ail, stracciatella, pastrami, vinaigre balsamique aux figues",
+            "price": "14,90",
+            "favorite": true
+          }
+        ]
+      },
+      "sweetDishes": {
+        "title": "NOS SUCRÉS",
+        "menus": [
+          {
+            "name": "TRIO DE PANCAKES",
+            "description": "Trio de pancakes accompagné de Nutella ou d’Amlou et de fruits rouges frais",
+            "price": "12,90"
+          },
+          {
+            "name": "TIRAMISU MAISON",
+            "description": "Tiramisu pistache ou Amlou",
+            "price": "8,00",
+            "favorite": true
+          },
+          {
+            "name": "SFENDJ",
+            "description": "2 beignets enrobés de sucre",
+            "price": "7,00"
+          },
+          {
+            "name": "MSEMEN GOURMAND",
+            "description": "Msemen gourmand au Nutella, fruits de saison, chantilly et noisettes caramélisées",
+            "price": "5,90",
+            "favorite": true
+          },
+          {
+            "name": "BAGHRIR GOURMAND",
+            "description": "3 baghrirs au miel et beurre fondu, noisettes caramélisées",
+            "price": "5,90"
+          },
+          {
+            "name": "LE BOWL",
+            "description": "Yaourt grec, fruits frais de saison, miel, avoine et amandes",
+            "price": "7,90"
+          }
+        ]
+      },
+      "asAsked": {
+        "title": "À LA CARTE",
+        "menus": [
+          {
+            "name": "ASSORTIMENT ORIENTAL",
+            "lines": ["Msemen", "Baghrir", "Harcha"],
+            "price": "2,50"
+          },
+          {
+            "name": "SUPPLÉMENTS",
+            "lines": ["Msemen fromage", "Harcha fromage", "Cake maison"],
+            "price": "3,50"
+          },
+          {
+            "name": "SUPPLÉMENTS 2",
+            "lines": ["Amlou"],
+            "price": "2,00"
+          },
+          {
+            "name": "SUPPLÉMENTS 3",
+            "lines": ["Nutella", "Confiture", "Fromage", "Miel"],
+            "price": "1,00"
+          }
+        ]
+      },
+      "hotDrinks": {
+        "title": "BOISSONS CHAUDES",
+        "menus": [
+          { "name": "EXPRESSO", "price": "2,50" },
+          { "name": "THÉ À LA MENTHE", "price": "2,00" },
+          { "name": "LATTE", "price": "4,50" },
+          { "name": "CAPPUCCINO", "price": "4,50" },
+          { "name": "CHOCOLAT CHAUD", "price": "4,50" },
+          { "name": "DOUBLE EXPRESSO", "price": "4,00" },
+          { "name": "AMERICANO", "price": "3,00" }
+        ]
+      },
+      "coldDrinks": {
+        "title": "BOISSONS FROIDES",
+        "menus": [
+          {
+            "name": "MANZIL",
+            "description": "Jus d'avocat, amandes, dattes et lait",
+            "price": "6,00",
+            "favorite": true
+          },
+          {
+            "name": "DUO FRUITÉ",
+            "description": "Smoothie fraicheur fraise & banane",
+            "price": "6,00"
+          },
+          {
+            "name": "DETOX",
+            "description": "Booster à base de citron vert, concombre, pomme verte, céleri, menthe & gingembre",
+            "price": "6,00"
+          },
+          {
+            "name": "FRESH CITRONNADE",
+            "price": "6,90"
+          },
+          {
+            "name": "TROPICAL",
+            "description": "Smoothie fraise, mangue, ananas et jus d'orange pressé",
+            "price": "6,90"
+          },
+          {
+            "name": "MANGUE ANANAS FUSION",
+            "price": "6,90",
+            "favorite": true
+          },
+          {
+            "name": "ORANGE PRESSÉE",
+            "price": "4,50"
+          }
+        ]
+      },
+      "sodas": {
+        "title": "SODAS",
+        "menus": [
+          { "name": "HAMOUD", "price": "2,50" },
+          { "name": "SELECTO", "price": "2,50" },
+          { "name": "EAU CRISTALINE", "price": "2,00" }
+        ]
+      },
+      "iceAndLatte": {
+        "title": "CAFÉ & THÉ GLACÉS",
+        "menus": [
+          { "name": "SPANISH LATTE", "price": "4,90" },
+          {
+            "name": "ICED LATTE",
+            "description": "caramel ou pistache +2€",
+            "price": "4,90"
+          },
+          {
+            "name": "THÉ GLACÉ PÊCHE MENTHE",
+            "price": "5,90",
+            "favorite": true
+          },
+          { "name": "THÉ GLACÉ À LA ROSE", "price": "5,90" }
+        ]
+      }
+    }
+  },
+    "Footer": {
+    "brand": {
+      "title": "Le Manzil Brunch",
+      "tagline": "L’authenticité marocaine au cœur de Marseille. Brunchs généreux, ambiance chaleureuse, thé à la menthe… bienvenue !"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "map": {
+      "aria": "Carte",
+      "title": "Manzil Brunch sur la carte"
+    },
+    "info": {
+      "title": "Infos pratiques",
+      "address": "48 rue du Lacydon - 13002 Marseille (Vieux-Port)",
+      "hoursAria": "Horaires",
+      "hours": [
+        { "day": "Lundi", "hours": "10:00 – 16:00" },
+        { "day": "Mardi", "hours": "10:00 – 16:00" },
+        { "day": "Mercredi", "hours": "10:00 – 16:00" },
+        { "day": "Jeudi", "hours": "10:00 – 16:00" },
+        { "day": "Vendredi", "hours": "Fermé" },
+        { "day": "Samedi", "hours": "10:00 – 17:00" },
+        { "day": "Dimanche", "hours": "10:00 – 17:00" }
+      ],
+      "contactTitle": "Contact",
+      "phone": "+33 6 14 29 55 00",
+      "email": "contact@manzilbrunch.fr"
+    },
+    "nav": {
+      "titlePrimary": "Navigation",
+      "primary": [
+        { "label": "Accueil", "href": "/" },
+        { "label": "Menu", "href": "/menu" },
+        { "label": "Galerie", "href": "/galerie" },
+        { "label": "Réserver", "href": "/#reservation" }
+      ],
+      "titleSecondary": "À découvrir",
+      "secondary": [
+        { "label": "À propos", "href": "/a-propos" },
+        { "label": "Contact", "href": "/contact" },
+        { "label": "FAQ", "href": "/faq" }
+      ]
+    },
+    "bottom": {
+      "copyright": "© {year} Le Manzil Brunch — Tous droits réservés.",
+      "legal": [
+        { "label": "Mentions légales", "href": "/mentions-legales" },
+        { "label": "Confidentialité", "href": "/confidentialite" },
+        { "label": "Cookies", "href": "/cookies" }
+      ],
+      "toTopAria": "Retour en haut"
+    }
+  }
+}

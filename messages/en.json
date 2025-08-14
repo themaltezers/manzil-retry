@@ -1,0 +1,338 @@
+{
+    "HomePage": {
+    "banner": {
+      "title": "Le Manzil Brunch",
+      "subtitle": "Moroccan authenticity, Marseille comfort",
+      "cta": "Explore the menu"
+    },
+    "about": {
+      "kicker": "AT THE HEART OF MANZIL BRUNCH",
+      "title": "Your Gourmet Escape in the Colors of Morocco",
+      "paragraphs": [
+        "Le Manzil Brunch is a cozy haven in the heart of Marseille, designed to awaken all your senses. Here, a Moroccan atmosphere blends with Mediterranean energy: plush cushions, colorful mosaics, artisanal tableware and delicate aromas come together in a setting that whisks you away.",
+        "Born from the desire to share the generosity of Moroccan tables, every detail of our décor tells a story. Soft lighting invites relaxation, the music carries you away, and each space was designed to make you feel at home… yet on a journey.",
+        "Whether it’s a brunch with friends, a family moment, or a solo gourmet break, settle in, savor the moment, and let the charm work its magic."
+      ],
+      "imageAlt": "interior of Manzil Brunch"
+    },
+    "ambiance": {
+      "kicker": "THE SOUL OF MANZIL BRUNCH",
+      "title": "Your Gourmet Escape in the Colors of Morocco",
+      "paragraphs": [
+        "Le Manzil Brunch is a cozy haven in the heart of Marseille, designed to awaken all your senses. Here, a Moroccan atmosphere blends with Mediterranean energy: plush cushions, colorful mosaics, artisanal tableware and delicate aromas come together in a setting that whisks you away.",
+        "Le Manzil Brunch is a cozy haven in the heart of Marseille, designed to awaken all your senses. Here, a Moroccan atmosphere blends with Mediterranean energy: plush cushions, colorful mosaics, artisanal tableware and delicate aromas come together in a setting that whisks you away.",
+        "Whether it’s a brunch with friends, a family moment, or a solo gourmet break, settle in, savor the moment, and let the charm work its magic."
+      ],
+      "carouselPlaceholder": "carousel image"
+    },
+    "reviews": {
+      "kicker": "THEY LOVED IT",
+      "title": "Your words, our greatest reward",
+      "intro": "Every visit to Manzil Brunch is unique… and your feedback goes straight to our hearts. Here are a few words that inspire us to give you our best, day after day.",
+      "items": [
+        {
+          "rating": 5,
+          "reviewContent": "Amazing find in Marseille! A very generous brunch with excellent value for money, fresh products and juices that really hit the spot. Breakfast is really good and the staff are very kind. The only downside is the wait—but it’s totally worth it. If you want to get away, go without hesitation.",
+          "reviewerName": "R B"
+        },
+        {
+          "rating": 5,
+          "reviewContent": "I had lunch at Manzil in Marseille and had an absolutely perfect time! Warm welcome, attentive service, and above all… the food is delicious. You can tell everything is homemade with fresh ingredients and lots of generosity. ❤️",
+          "reviewerName": "Sofia"
+        },
+        {
+          "rating": 4,
+          "reviewContent": "Delicious brunch; the flavors are spot on. Portions are generous. We recommend it—the atmosphere is warm.",
+          "reviewerName": "Romane"
+        },
+        {
+          "rating": 5,
+          "reviewContent": "Where to start… A brunch that’s both high-quality and plentiful, top-notch service, fresh products! Our waitress was attentive and super friendly! Thank you—we’ll be back without hesitation!!",
+          "reviewerName": "Ambrine"
+        },
+        {
+          "rating": 5,
+          "reviewContent": "A wonderful discovery! I tried a Moroccan brunch in Marseille for the first time and it was truly delicious. Every dish was tasty, well presented, and the flavors took me on a journey! The service was quick, attentive and friendly, which made the experience even better. A place I recommend with my eyes closed for a warm, indulgent moment. I’ll be back without hesitation!",
+          "reviewerName": "Mégane"
+        },
+        {
+          "rating": 4,
+          "reviewContent": "Passing through Marseille. Great find. The dishes are excellent—neither too heavy nor too sweet. Shout-out to the savory chicken-cheddar msemen and the friendly service.",
+          "reviewerName": "Alvine"
+        },
+        {
+          "rating": 5,
+          "reviewContent": "Friendly atmosphere, excellent cuisine and a perfect welcome! A must-visit if you come to Marseille!",
+          "reviewerName": "Mailis"
+        },
+        {
+          "rating": 4,
+          "reviewContent": "Old Port parking, Lacydon exit and there we were right in front! A nice little family brunch—very good and very friendly. That day there wasn’t much of a wait, so we were delighted.",
+          "reviewerName": "Cédric"
+        },
+        {
+          "rating": 5,
+          "reviewContent": "A simply excellent Moroccan brunch! Authentic flavors, fresh ingredients and a wide choice of generously served specialties. The atmosphere is warm and the welcome perfect. A real moment of pleasure—I recommend without hesitation!",
+          "reviewerName": "Meriem"
+        }
+      ]
+    },
+    "infos": {
+      "kicker": "PRACTICAL INFO",
+      "title": "Find us easily",
+      "intro": "In the heart of Marseille, Le Manzil Brunch welcomes you into a warm setting, just steps from the city’s must-see spots. Whether you’re coming for a family brunch, with friends or solo, we’ve thought of everything to make your visit simple and enjoyable."
+    }
+  },
+  "Menu": {
+    "header": {
+      "title": "BRUNCH MENU"
+    },
+    "sections": {
+      "setMenus": {
+        "title": "SET MENUS",
+        "menus": [
+          {
+            "name": "PRIMO",
+            "description": "1 msemen, 2 baghrirs, one hot drink and one cold drink",
+            "price": "10,90"
+          },
+          {
+            "name": "MANZIL",
+            "description": "1 msemen, 1 baghrir, 1 harcha, two fried or scrambled eggs, slice of chicken breast, cheese, one hot and cold drink. honey, amlou, olives and olive oil",
+            "price": "16,90"
+          },
+          {
+            "name": "ORIENT",
+            "description": "1 msemen, 1 baghrir, 1 harcha, 1 slice of homemade cake, 1 amlou or pistachio tiramisu, one hot and cold drink",
+            "price": "21,90"
+          },
+          {
+            "name": "HEALTHY",
+            "description": "A plate with two fried or scrambled eggs, half an avocado, salad, slice of chicken breast, cheese, one hot and cold drink",
+            "price": "14,90"
+          },
+          {
+            "name": "DUO",
+            "description": "2 soups, 2 msemens, 2 baghrirs, 2 harchas, 2 egg plates, 2 hot and cold drinks",
+            "price": "39,90"
+          }
+        ]
+      },
+      "saltyDishes": {
+        "title": "OUR SAVORY DISHES",
+        "menus": [
+          {
+            "name": "AVOCADO TOAST",
+            "description": "avocado guacamole, fresh cheese, poached egg, paprika, lime",
+            "price": "13,90"
+          },
+          {
+            "name": "STUFFED MSEMEN",
+            "description": "fresh msemens, stuffed with spice-marinated chicken and a melting layer of cheddar",
+            "price": "13,90"
+          },
+          {
+            "name": "MANZIL ADDICT",
+            "description": "on a msemen base, 1 sliced avocado, shredded beef, 2 poached eggs with hollandaise sauce",
+            "price": "14,90"
+          },
+          {
+            "name": "SOUP & BRICK",
+            "description": "soup of the day, square brick with potato, chicken and cheddar",
+            "price": "12,90"
+          },
+          {
+            "name": "THE CLUB",
+            "description": "toasted country bread, pesto layer, garlic cherry tomato sauté, stracciatella, pastrami with fig balsamic vinegar",
+            "price": "14,90"
+          }
+        ]
+      },
+      "sweetDishes": {
+        "title": "OUR SWEETS",
+        "menus": [
+          {
+            "name": "PANCAKE TRIO",
+            "description": "Trio of pancakes served with Nutella or Amlou and fresh red berries",
+            "price": "12,90"
+          },
+          {
+            "name": "HOMEMADE TIRAMISU",
+            "description": "Pistachio or Amlou tiramisu",
+            "price": "8,00"
+          },
+          {
+            "name": "SFENDJ",
+            "description": "2 donuts coated in sugar",
+            "price": "7,00"
+          },
+          {
+            "name": "GOURMET MSEMEN",
+            "description": "Gourmet msemen with Nutella, seasonal fruits, whipped cream and caramelized hazelnuts",
+            "price": "5,90"
+          },
+          {
+            "name": "GOURMET BAGHRIR",
+            "description": "3 baghrirs with honey and melted butter, caramelized hazelnuts",
+            "price": "5,90"
+          },
+          {
+            "name": "THE BOWL",
+            "description": "Greek yogurt, fresh seasonal fruits, honey, oats and almonds",
+            "price": "7,90"
+          }
+        ]
+      },
+      "asAsked": {
+        "title": "À LA CARTE",
+        "menus": [
+          {
+            "name": "ORIENTAL ASSORTMENT",
+            "lines": ["msemen", "baghrir", "harcha"],
+            "price": "2,50"
+          },
+          {
+            "name": "SUPPLEMENTS",
+            "lines": ["cheese msemen", "cheese harcha", "homemade cake"],
+            "price": "3,50"
+          },
+          {
+            "name": "",
+            "lines": ["Amlou"],
+            "price": "2,00"
+          },
+          {
+            "name": "",
+            "lines": ["Nutella", "Jam", "Cheese", "Honey"],
+            "price": "1,00"
+          }
+        ]
+      },
+      "hotDrinks": {
+        "title": "HOT DRINKS",
+        "menus": [
+          { "name": "ESPRESSO", "price": "2,50" },
+          { "name": "MINT TEA", "price": "2,00" },
+          { "name": "LATTE", "price": "4,50" },
+          { "name": "CAPPUCCINO", "price": "4,50" },
+          { "name": "HOT CHOCOLATE", "price": "4,50" },
+          { "name": "DOUBLE ESPRESSO", "price": "4,00" },
+          { "name": "AMERICANO", "price": "3,00" }
+        ]
+      },
+      "coldDrinks": {
+        "title": "COLD DRINKS",
+        "menus": [
+          {
+            "name": "MANZIL",
+            "description": "Avocado juice, almonds, dates and milk",
+            "price": "6,00"
+          },
+          {
+            "name": "FRUITY DUO",
+            "description": "Fresh strawberry & banana smoothie",
+            "price": "6,00"
+          },
+          {
+            "name": "DETOX",
+            "description": "booster with lime, cucumber, green apple, celery, mint & ginger",
+            "price": "6,00"
+          },
+          {
+            "name": "FRESH LEMONADE",
+            "price": "6,90"
+          },
+          {
+            "name": "TROPICAL",
+            "description": "strawberry, mango, pineapple smoothie and fresh orange juice",
+            "price": "6,90"
+          },
+          {
+            "name": "MANGO PINEAPPLE FUSION",
+            "price": "6,90"
+          },
+          {
+            "name": "FRESH ORANGE JUICE",
+            "price": "4,50"
+          }
+        ]
+      },
+      "sodas": {
+        "title": "SODAS",
+        "menus": [
+          { "name": "HAMOUD", "price": "2,50" },
+          { "name": "SELECTO", "price": "2,50" },
+          { "name": "CRYSTAL WATER", "price": "2,00" }
+        ]
+      },
+      "iceAndLatte": {
+        "title": "ICED COFFEE & TEA",
+        "menus": [
+          { "name": "SPANISH LATTE", "price": "4,90" },
+          {
+            "name": "ICED LATTE",
+            "description": "caramel or pistachio +2€",
+            "price": "4,90"
+          },
+          { "name": "ICED PEACH MINT TEA", "price": "5,90" },
+          { "name": "ICED ROSE TEA", "price": "5,90" }
+        ]
+      }
+    }
+  },
+  "Footer": {
+    "brand": {
+      "title": "Le Manzil Brunch",
+      "tagline": "Moroccan authenticity in the heart of Marseille. Generous brunches, a warm atmosphere and mint tea—welcome!"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "map": {
+      "aria": "Map",
+      "title": "Manzil Brunch on the map"
+    },
+    "info": {
+      "title": "Practical info",
+      "address": "48 rue du Lacydon - 13002 Marseille (Vieux-Port)",
+      "hoursAria": "Opening hours",
+      "hours": [
+        { "day": "Monday", "hours": "10:00 – 16:00" },
+        { "day": "Tuesday", "hours": "10:00 – 16:00" },
+        { "day": "Wednesday", "hours": "10:00 – 16:00" },
+        { "day": "Thursday", "hours": "10:00 – 16:00" },
+        { "day": "Friday", "hours": "Closed" },
+        { "day": "Saturday", "hours": "10:00 – 17:00" },
+        { "day": "Sunday", "hours": "10:00 – 17:00" }
+      ],
+      "contactTitle": "Contact",
+      "phone": "+33 6 14 29 55 00",
+      "email": "contact@manzilbrunch.fr"
+    },
+    "nav": {
+      "titlePrimary": "Navigation",
+      "primary": [
+        { "label": "Home", "href": "/" },
+        { "label": "Menu", "href": "/menu" },
+        { "label": "Gallery", "href": "/galerie" },
+        { "label": "Book", "href": "/#reservation" }
+      ],
+      "titleSecondary": "More",
+      "secondary": [
+        { "label": "About", "href": "/a-propos" },
+        { "label": "Contact", "href": "/contact" },
+        { "label": "FAQ", "href": "/faq" }
+      ]
+    },
+    "bottom": {
+      "copyright": "© {year} Le Manzil Brunch — All rights reserved.",
+      "legal": [
+        { "label": "Legal notice", "href": "/mentions-legales" },
+        { "label": "Privacy", "href": "/confidentialite" },
+        { "label": "Cookies", "href": "/cookies" }
+      ],
+      "toTopAria": "Back to top"
+    }
+  }
+}
